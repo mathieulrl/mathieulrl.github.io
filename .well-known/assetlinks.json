@@ -1,0 +1,13 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cometh.connect.viemdemo",
+    "sha256_cert_fingerprints": [
+      "21:22:18:38:28:5D:2A:70:58:B9:10:CC:31:A1:2F:55:14:B6:3D:14:5E:57:80:92:F4:3C:D4:4A:47:DB:7F:75"
+    ]
+  }
+}]
